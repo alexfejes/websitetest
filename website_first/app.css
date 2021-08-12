@@ -1,0 +1,25 @@
+#buttons {
+    margin-top: 2em;
+    border-radius: 80px;
+}
+
+#round {
+    border-radius: 4em;
+}
+
+body {
+    background-image: url('bg.jpg');
+}
+
+#box {
+    background-color: white;
+    border-radius: 45px;
+    opacity: 0.95;
+    margin-top: 5em;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+#faded {
+    opacity: 0;
+}
